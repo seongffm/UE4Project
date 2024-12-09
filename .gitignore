@@ -42,7 +42,7 @@
 # Unreal Engine Content and Mobile Resources
 Build/IOS/Resources/Graphics/
 Build/Android/res/
-Content/Campfire/*
+Content/Campfire/Campfire_uenpfeifa_Raw.uasset
 
 
 # Compiled Object files
